@@ -1,2 +1,0 @@
-# SpoofingFix
-sourcemod
